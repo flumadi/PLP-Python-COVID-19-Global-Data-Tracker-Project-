@@ -1,9 +1,10 @@
 # PLP-Python-COVID-19-Global-Data-Tracker-Project  
 ## 🌍 Overview  
-This Python project analyzes global COVID-19 data to track cases, deaths, and vaccinations. Using simple code, it cleans the data, compares countries, and   
-creates easy-to-understand charts showing trends over time. Perfect for beginners, it helps visualize the pandemic's impact through line graphs, vaccination  
-progress charts, and interactive maps - all with just a few lines of customizable code. The project teaches basic data analysis while providing meaningful   
-insights about COVID-19's spread worldwide.  
+This Python project analyzes global COVID-19 data to track cases, deaths, and vaccinations.   
+Using simple code, it cleans the data, compares countries, and creates easy-to-understand charts  
+showing trends over time.It helps visualize the pandemic's impact through line graphs,   
+vaccination progress charts, and interactive maps - all with just a few lines of customizable code.   
+The project teaches basic data analysis while providing meaningful insights about COVID-19's spread worldwide.   
 
 ## 🛠️ Prerequisites  
 Before you begin, ensure you have these installed:  
