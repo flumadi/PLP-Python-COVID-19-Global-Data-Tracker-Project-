@@ -41,8 +41,9 @@ Before you begin, ensure you have these installed:
   >Cases Over Time - Line graph showing infection trends  
   >Vaccination Progress - Percentage of population vaccinated  
   >Death Rate Analysis - Fatalities vs cases over time  
-  >Global Map - Interactive choropleth of cases worldwide  
-
+  >Global Map - Interactive choropleth of cases worldwide
+>Below is a sample of what the visualizations look like...
+![Sample Image](sample-img.jpg)  
 ## 💡 Beginner Tips  
 ✅Changing Countries  
 Edit this line to analyze different countries:  
