@@ -13,7 +13,7 @@ Before you begin, ensure you have these installed:
       pip install notebook  
       Required Python Libraries  
    -Install all dependencies by running:  
-      pip install pandas numpy matplotlib seaborn plotly
+      pip install pandas numpy matplotlib seaborn plotly  
    
 ## 📂 Getting Started...  
 1. Clone the Repository  
@@ -56,21 +56,20 @@ df.head()  # Shows first 5 rows
 ✅Saving Plots  
 Right-click any visualization → Save image as...  
 
-## ❓ Getting Help
-If you encounter errors:
-  Check all prerequisites are installed
+## ❓ Getting Help  
+If any errors occur:  
+  Check all prerequisites are installed  
+  Ensure the CSV file is in the right folder  
+  Google any error messages - chances are others have solved it!  
+## For additional help:  
+  Pandas Documentation  
+  Matplotlib Tutorials  
 
-  Ensure the CSV file is in the right folder
-
-  Google any error messages - chances are others have solved it!
-## For additional help:
-  Pandas Documentation
-  Matplotlib Tutorials
-
-## 🚀 Next Steps  
+## 🚀 NFeel Free To...   
   Try modifying the code to:  
     -Add your country to the analysis  
     -Compare death rates between nations  
     -Create new visualizations  
+Prepared by Fridah any questions contact me -mathiasfridah2@gmail.com  
 Happy analyzing! 🎉  
-Prepared by Fridah any questions contact me -mathiasfridah2@gmail.com
+
