@@ -48,7 +48,7 @@ Below is a sample of what the visualizations look like...
 ✅Changing Countries  
 Edit this line to analyze different countries:  
 python  
-countries = ['Kenya', 'Nigeria', 'South Africa', 'Namibia']  
+countries = ['Botswana', 'Angola', 'Mozambique', 'Zimbabwe', 'Tanzania', 'Ethiopia', 'Uganda']  
 
 ✅Viewing Data  
 Add this cell to peek at the data:  
