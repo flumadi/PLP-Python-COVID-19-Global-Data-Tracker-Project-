@@ -18,7 +18,7 @@ Before you begin, ensure you have these installed:
    
 ## 📂 Getting Started...  
 1. Clone the Repository  
-     -git clone https://github.com/flumadi/PLP-Python-COVID-19-Global-Data-Tracker-Project.git  
+     -git clone https://github.com/flumadi/PLP-Python-COVID-19-Global-Data-Tracker-Project.git (for me-change to fit yours)
      -cd covid-data-analysis  
 2. Download the Dataset  
      -Get the CSV file from Our World in Data  
